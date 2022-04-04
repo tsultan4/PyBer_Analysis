@@ -6,7 +6,9 @@
     Suburban and Urban areas.
  
     
-    
+    ![Pyber DF](/PyBer DF.png)
+    ![Pyber Graph](/PyBer_fare_summary.png)
+
     Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
     
     
